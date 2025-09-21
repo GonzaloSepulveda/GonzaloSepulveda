@@ -49,11 +49,7 @@ Soy estudiante de **Ingeniería Informática** en la Universidad Nebrija. Me apa
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GonzaloSepulveda.GonzaloSepulveda" />
 <br/>
 
-<hr/>
 
-
-
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
