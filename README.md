@@ -9,7 +9,7 @@ Soy estudiante de **Ingeniería Informática** en la Universidad Nebrija. Me apa
 ## 🚀 Sobre mí
 - Estudiante de tercer año de Ingeniería Informática.  
 - Actitud abierta, colaborativa y flexible.  
-- Me interesa el desarrollo de software, la ingeniería de datos y los sistemas embebidos.  
+- Me interesa el desarrollo de software, la ingeniería de datos, las bases de datos y la ciberseguridad
 
 ---
 
