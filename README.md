@@ -1,13 +1,14 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gonzalo+Sepúlveda!;" />
 </h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GonzaloSepulveda.GonzaloSepulveda" />
 
 Soy estudiante de **Ingeniería Informática** en la Universidad Nebrija. Me apasiona aprender de los demás, compartir lo que sé y trabajar en equipo para encontrar siempre la mejor solución a los problemas.  
 
 ---
 
 ## 🚀 Sobre mí
-- Estudiante de tercer año de Ingeniería Informática.  
+- Estudiante de cuarto año de Ingeniería Informática.  
 - Actitud abierta, colaborativa y flexible.  
 - Me interesa el desarrollo de software, la ingeniería de datos, las bases de datos y la ciberseguridad
 
@@ -63,7 +64,7 @@ Soy estudiante de **Ingeniería Informática** en la Universidad Nebrija. Me apa
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=GonzaloSepulveda&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/><br/>
+
 
 <hr/>
 
