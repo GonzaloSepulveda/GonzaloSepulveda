@@ -1,4 +1,6 @@
-# 👋 Hola, soy Gonzalo Sepúlveda
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gonzalo+Sepúlveda!;" />
+</h1>
 
 Soy estudiante de **Ingeniería Informática** en la Universidad Nebrija. Me apasiona aprender de los demás, compartir lo que sé y trabajar en equipo para encontrar siempre la mejor solución a los problemas.  
 
@@ -46,11 +48,6 @@ Soy estudiante de **Ingeniería Informática** en la Universidad Nebrija. Me apa
 
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GonzaloSepulveda.GonzaloSepulveda" />
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gonzalo+Sepúlveda!;" />
-</h1>
-
 <br/>
 
 <hr/>
