@@ -30,8 +30,6 @@ Soy estudiante de **Ingeniería Informática** en la Universidad Nebrija. Me apa
 ## 🎓 Educación
 - **Grado en Ingeniería Informática** (2022 – Presente)  
   Universidad Nebrija  
-- **Bachillerato Tecnológico** (2020 – 2022)  
-
 ---
 
 ## 🌱 Otros datos de interés
